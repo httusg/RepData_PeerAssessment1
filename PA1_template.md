@@ -125,7 +125,7 @@ The mean and median of the total number of steps taken per day are different fro
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
-Setting the system to return day of week in English.
+Setting the system to return days of week in English.
 
 
 ```r
